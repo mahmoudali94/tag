@@ -1,1 +1,0 @@
-Website for tag company using flask , Bootstrap, html and css
